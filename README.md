@@ -1,7 +1,3 @@
-# Pizza Restaurant
-| Screenshot | Screenshot | Screenshot |
-| --- | --- | --- |
-| <img src="https://github.com/frinaldisyauqi/pizza-restaurant/blob/main/Screenshot/TampilanAwal1.png" width="250">| <img src="https://github.com/frinaldisyauqi/pizza-restaurant/blob/main/Screenshot/TampilanAwal2.png" width="250"> | <img src="https://github.com/frinaldisyauqi/pizza-restaurant/blob/main/Screenshot/TampilanStore1.png" width="250"> |
-| <img src="https://github.com/frinaldisyauqi/pizza-restaurant/blob/main/Screenshot/TampilanStore2.png" width="250"> | <img src="https://github.com/frinaldisyauqi/pizza-restaurant/blob/main/Screenshot/TampilanStore3.png" width="250"> | <img src="https://github.com/frinaldisyauqi/pizza-restaurant/blob/main/Screenshot/TampilanAwalMenu.png" width="250"> |
-| <img src="https://github.com/frinaldisyauqi/pizza-restaurant/blob/main/Screenshot/TampilanMenu1.png" width="250"> | <img src="https://github.com/frinaldisyauqi/pizza-restaurant/blob/main/Screenshot/TampilanMenu2.png" width="250"> | <img src="https://github.com/frinaldisyauqi/pizza-restaurant/blob/main/Screenshot/TampilanMenu3.png" width="250"> |
-| <img src="https://github.com/frinaldisyauqi/pizza-restaurant/blob/main/Screenshot/TampilanOrder1.png" width="250"> | <img src="https://github.com/frinaldisyauqi/pizza-restaurant/blob/main/Screenshot/TampilanOrder2.png" width="250"> | <img src="https://github.com/frinaldisyauqi/pizza-restaurant/blob/main/Screenshot/TampilanOrder3.png" width="250"> |
+# **Android Pizza Restaurant**
+## by Faizal Ramadhan - 1207050034 - PPAM B
+![Frame 5](https://user-images.githubusercontent.com/69755016/209740085-306a7f44-b81e-4250-acf1-549aba1eb84f.png)
